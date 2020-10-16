@@ -1,0 +1,11 @@
+D:\nbarb\Documents\Visual Studio Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\nbarb\Documents\Visual Studio Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\nbarb\Documents\Visual Studio Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\nbarb\Documents\Visual Studio Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\massTexConverter.csprojAssemblyReference.cache
+D:\nbarb\Documents\Visual Studio Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\nbarb\Documents\Visual Studio Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\massTexConverter.csproj.GenerateResource.cache
+D:\nbarb\Documents\Visual Studio Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\massTexConverter.csproj.CoreCompileInputs.cache
+D:\nbarb\Documents\Visual Studio Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\nbarb\Documents\Visual Studio Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\nbarb\Documents\Visual Studio Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.mainForm.resources
+D:\nbarb\Documents\Visual Studio Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.optionsWindow.resources
